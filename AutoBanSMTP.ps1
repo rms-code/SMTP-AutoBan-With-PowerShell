@@ -1,4 +1,4 @@
-﻿#Import Posh-SSH Module
+﻿
 Import-Module Posh-SSH
 
 #Variables and SecureString for Creds
