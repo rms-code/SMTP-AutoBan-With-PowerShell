@@ -1,9 +1,7 @@
- Check the bottom of the page for any updates
+﻿ Check the bottom of the page for any updates
 -----
 
 
-
-Before I begin this post, please note; I am not a PowerShell expert or regex guru, if there is easier or proficient ways to do any of the code I post, please send me an email, post under this, with improvements or idea's.
 
  
 
