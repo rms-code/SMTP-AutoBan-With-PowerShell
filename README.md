@@ -51,8 +51,8 @@ First, the things you need, or atleast something that is close to the same type 
 
 OPTIONAL - Graylog(v1.2 and 2.1 work fine)
 nxlog(or if you want, some type of log shipper that allows you to use regex)
-Exchange 2010(2013/2016 will work, just find your log path as it is different between them, and change config)
-Fortigate Firewall/$Vendor firewall, but that's on you. (firmware 5.2.x, I have not tested this on 5.4.x, input would be welcomed!)
+Exchange 2013/2016
+Fortigate Firewall/$Vendor firewall, but that's on you. (firmware 5.6.x)
 Posh-SSH module / PS v3+
  
 
