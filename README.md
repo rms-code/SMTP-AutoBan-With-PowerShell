@@ -50,9 +50,13 @@ First, the things you need, or atleast something that is close to the same type 
  
 
 OPTIONAL - Graylog(2.2,2.3,2.4.x)
+----
 nxlog(or if you want, some type of log shipper that allows you to use regex)
+----
 Exchange 2013/2016
+----
 Fortigate Firewall/$Vendor firewall, but that's on you. (firmware 5.6.x)
+----
 Posh-SSH module / PS v3+
  
 
