@@ -58,6 +58,7 @@ Exchange 2013/2016
 Fortigate Firewall/$Vendor firewall, but that's on you. (firmware 5.6.x)
 ----
 Posh-SSH module / PS v3+
+----
  
 
 Everything should be pretty straight forward, I will assume you have installed graylog, nxlog installed on your exchange box, access to a fortigate(or if you are going to change that part, your $vendor firewall).
